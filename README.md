@@ -12,8 +12,8 @@
   **AI for Medical Diagnosis**
 
 - 📫 How to reach me
-   -**Instagram** : https://www.instagram.com/__s.p.e.c.t.r.a.l__/
-   -**Facebook** : https://www.facebook.com/profile.php?id=100080731685794
+   - **Instagram** : https://www.instagram.com/__s.p.e.c.t.r.a.l__/
+   - **Facebook** : https://www.facebook.com/profile.php?id=100080731685794
 
 
 <!---
