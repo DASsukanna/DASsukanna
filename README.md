@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Sukanna Das
 - 👀 I’m interested in
   - **Data Science and Machine Learning**
-  -**Data-Driven Decision Making**
-  -**Statistical data Modelling**
-  -**Statistical and Data Science Applications**
-  -**Inferential statistics**
-  -**Time series analysis**
+  - **Data-Driven Decision Making**
+  - **Statistical data Modelling**
+  - **Statistical and Data Science Applications**
+  - **Inferential statistics**
+  - **Time series analysis**
 
 
 
