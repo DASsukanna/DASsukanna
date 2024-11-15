@@ -7,13 +7,14 @@
   - **Inferential statistics**
   - **Time series analysis**
 
-
-
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  **Generative AI using LLM**
+  **AI for Medical Diagnosis**
+
+- 📫 How to reach me
+   -**Instagram** : https://www.instagram.com/__s.p.e.c.t.r.a.l__/
+   -**Facebook** : https://www.facebook.com/profile.php?id=100080731685794
+
 
 <!---
 DASsukanna/DASsukanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
