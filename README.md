@@ -14,7 +14,7 @@
 - 📫 How to reach me
    - **Instagram** : https://www.instagram.com/__s.p.e.c.t.r.a.l__/
    - **Facebook** : https://www.facebook.com/profile.php?id=100080731685794
-
+   - **Linkedin** : www.linkedin.com/in/sukanna-das-170049216
 
 <!---
 DASsukanna/DASsukanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
