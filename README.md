@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sukanna Das
+- ## 👋 Hi, I’m Sukanna Das
 - 👀 I’m interested in
   - **Data Science and Machine Learning**
   - **Data-Driven Decision Making**
