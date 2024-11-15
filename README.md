@@ -8,8 +8,8 @@
   - **Time series analysis**
 
 - 🌱 I’m currently learning ...
-  **Generative AI using LLM**
-  **AI for Medical Diagnosis**
+   - **Generative AI using LLM**
+   - **AI for Medical Diagnosis**
 
 - 📫 How to reach me
    - **Instagram** : https://www.instagram.com/__s.p.e.c.t.r.a.l__/
